@@ -6,16 +6,16 @@
 |Name|a2arakawa|
 |Summary|Cloud Engineer (AWS)|
 |Contact|[Twitter/a2arakawa](https://twitter.com/a2arakawa)|
+|Oustput|[Github/a2arakawa](https://github.com/a2arakawa), [Qiita/a2arakawa](https://qiita.com/a2arakawa)|
 
-|Outputs|Link|
-----|---- 
-|Github|[a2arakawa](https://github.com/a2arakawa)|
-|Qiita|[a2arakawa](https://qiita.com/a2arakawa)|
+## 職務経歴
 
-|Work Experience|||
-----|----|---- 
-||||
+|Work Experience||Role|Date|
+----|----|----|---- 
+|||||
 
+
+## 学習履歴
 
 |Sutdy&Test log|Category|Date|
 ----|----|---- 
