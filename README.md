@@ -22,7 +22,7 @@
 
 |No|Sutdy&Test log|Category|Date|
 ----|----|----|---- 
-|09|2017年12月|AWS Solutions Architect - Professiona|AWS製品|
+|09|2017年12月|AWS Solutions Architect - Professional|AWS製品|
 |08|2016年04月|IPA 応用情報技術者試験|汎用|
 |07|2016年02月|AWS Solutions Architect - Associate|AWS製品|
 |06|2014年03月|CompTIA認定資格 Network+|汎用|
