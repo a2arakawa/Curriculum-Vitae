@@ -13,7 +13,7 @@
 
 |No|Date|Work|Exp|Env|Role|
 ----|----|----|----|----|---- 
-|01|2015年3月<BR>〜<BR>2019年6月<BR>（4年4ヶ月）|・企画<BR>・運営|・AWS活用推進企画<BR>・チームビルディング（5名）<BR>・AWSデザイン（閉域網内利用）<BR>・運営（契約,課金,収支,ガイドライン整備等）<BR>・トレーニング支援|・VPC/EC2/S3等<BR>・Win/RHEL<BR>・RDS（Oracle/Aurora Postgresql）<BR>・Apache/Tomcat<BR>・Jenkins<BR>・Trac/SVN<BR>・JP1/AJS|リーダー|
+|01|2015年3月<BR>〜<BR>2019年6月<BR>（4年4ヶ月）|・企画<BR>・運営|・AWS活用推進<BR>・チームビルディング（5名）<BR>・AWSデザイン（閉域網内利用）<BR>・運営（契約,課金,収支,ガイドライン整備等）<BR>・トレーニング支援|・VPC/EC2/S3等<BR>・Win/RHEL<BR>・RDS（Oracle/Aurora Postgresql）<BR>・Apache/Tomcat<BR>・Jenkins<BR>・Trac/SVN<BR>・JP1/AJS|リーダー|
 
 ## 学習履歴
 
