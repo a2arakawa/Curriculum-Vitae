@@ -4,16 +4,16 @@
 |Personal Information||
 ----|---- 
 |Name|a2arakawa|
-|Summary|Cloud Engineer (AWS)|
+|Summary|Cloud Engineer|
 |Contact|[Twitter/a2arakawa](https://twitter.com/a2arakawa)|
-|Oustput|◆[Qiita/a2arakawa](https://qiita.com/a2arakawa) <BR> ◆[Github/a2arakawa](https://github.com/a2arakawa)|
+|Oustput|[Qiita/a2arakawa](https://qiita.com/a2arakawa)  [Github/a2arakawa](https://github.com/a2arakawa)|
 
 
 ## 職務経歴
 
 |No|Date|Work|Exp|Env|Role|
 ----|----|----|----|----|---- 
-|01|x ヶ月|||◆基盤<br>◆OS<BR>◆DB<BR>◆ミドル<BR>◆言語<BR>◆フレームワーク||
+|01|2015年3月<BR>〜<BR>2019年6月<BR>（4年4ヶ月）|・企画推進<BR>・運営|・AWS活用推進企画<BR>・チームビルディング（5名）<BR>・AWSデザイン（閉域網内利用）<BR>・運営（契約,課金,収支,ガイドライン整備等）<BR>・トレーニング支援|・VPC/EC2/S3等<BR>・Win/RHEL<BR>・Oracle/Postgres<BR>・Apache/Tomcat<BR>・Jenkins<BR>・JP1/AJS|リーダー|
 
 ## 学習履歴
 
