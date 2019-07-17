@@ -1,9 +1,8 @@
 # a2arakawa Curriculum-Vitae
 ## 基本情報
 
-|Personal Information||
-----|---- 
 |Name|a2arakawa|
+:----|:---- 
 |Summary|Cloud Engineer|
 |Contact|[Twitter/a2arakawa](https://twitter.com/a2arakawa)|
 |Oustput|[Qiita/a2arakawa](https://qiita.com/a2arakawa)  [Github/a2arakawa](https://github.com/a2arakawa)|
