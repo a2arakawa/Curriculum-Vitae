@@ -1,0 +1,29 @@
+@startuml
+cloud aws01_com {
+ storage S3
+ rectangle route53
+ rectangle DS_AD_DNS
+ rectangle EC2_WSUS
+ rectangle SecurityHub
+}
+cloud aws02_dev {
+ storage S3_dev
+ rectangle EC2_dev
+ database RDS_dev
+}
+cloud aws03_prd {
+ storage S3_prod
+ rectangle EC2_prod
+ database RDS_prod
+}
+
+cloud aws04_stg {
+ storage S3_staging
+ rectangle EC2_stg
+ database RDS_stg
+}
+
+aws01_com -0- aws02_dev
+aws01_com -0- aws03_prd
+aws01_com -0- aws04_stg
+@enduml
