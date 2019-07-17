@@ -11,7 +11,7 @@
 
 ## 職務経歴
 
-|No|Date|Work|Exp|Env|Role|
+|No|時期|業務|経験|環境|役割|
 ----|----|----|----|----|---- 
 |03|2015年3月<BR>〜<BR>2019年6月<BR>（4年4ヶ月）|・企画<BR>・運営|・AWS移行<BR>・AWSデザイン<BR>・AWSオペレーション<BR>・チームビルディング（〜5名）<BR>・運営（契約,課金収支,ガイドライン整備）<BR>・技術トレーニング支援|・VPC/EC2/RDS/S3等<BR>・Win/RHEL<BR>・Oracle/Aurora Postgres<BR>・Apache/Tomcat<BR>・Jenkins<BR>・Trac/SVN<BR>・JP1/AJS|リーダー|
 |02|2011年12月<BR>〜<BR>2015年2月<BR>（3年3ヶ月）|・移行|・データセンター全体移行計画立案/推進<BR>・プロジェクト管理（〜10名, PM, 予算管理, 工数管理, ベンダー協業）|・物理サーバ/プライベートクラウド<BR>・Win/RHEL<BR>・Oracle<BR>・IIS<BR>・VDI|マネージャ|
