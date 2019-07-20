@@ -5,7 +5,7 @@
 :----|:---- 
 |Summary|Cloud Engineer|
 |Contact|[Twitter/a2arakawa](https://twitter.com/a2arakawa)|
-|Oustput|[Qiita/a2arakawa](https://qiita.com/a2arakawa)  [Github/a2arakawa](https://github.com/a2arakawa)|
+|Output|[Qiita/a2arakawa](https://qiita.com/a2arakawa)  [Github/a2arakawa](https://github.com/a2arakawa)|
 
 
 ## 職務経歴
