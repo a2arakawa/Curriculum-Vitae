@@ -1,0 +1,23 @@
+@startuml
+package "Auth0" {
+ [SSO_idp]
+}
+
+cloud aws {
+}
+cloud gcp {
+}
+cloud alibaba {
+}
+cloud azure {
+}
+cloud oracle {
+}
+
+
+SSO_idp --- aws
+SSO_idp --- gcp
+SSO_idp --- alibaba
+SSO_idp --- azure
+SSO_idp --- oracle
+@enduml
