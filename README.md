@@ -23,7 +23,6 @@
 |10|2019年08月|JSTQB認定テスト技術者資格 Foundation Level|汎用|
 |09|2017年12月|AWS Solutions Architect - Professional|AWS製品知識|
 |08|2016年04月|IPA 応用情報技術者試験|汎用|
-|08|2016年04月|IPA 応用情報技術者試験|汎用|
 |07|2016年02月|AWS Solutions Architect - Associate|AWS製品知識|
 |06|2014年03月|CompTIA認定資格 Network+|汎用|
 |05|2013年03月|CompTIA認定資格 Security+|汎用|
