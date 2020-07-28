@@ -18,7 +18,7 @@
 
 ### 学習履歴
 
-|No|Sutdy&Test log|Category|Date|
+|No|Date|Sutdy&Test|Category|
 ----|----|----|---- 
 |10|2019年08月|JSTQB認定テスト技術者資格 Foundation Level|汎用|
 |09|2017年12月|AWS Solutions Architect - Professional|AWS製品知識|
