@@ -1,4 +1,4 @@
-## a2arakawa / Curriculum-Vitae
+## a2arakawa /Curriculum-Vitae
 ### 基本情報
 |||
 :----|:---- 
