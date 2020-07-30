@@ -3,7 +3,7 @@
 |||
 :----|:---- 
 |Contact|[Twitter](https://twitter.com/a2arakawa)|
-|Output|[Qiita](https://qiita.com/a2arakawa) / [note](https://note.com/a2arakawa)|
+|Output|[Qiita（ICT技術）](https://qiita.com/a2arakawa) / [note（EdTech育児）](https://note.com/a2arakawa)|
 
 
 ### 職務経歴
