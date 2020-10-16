@@ -2,18 +2,18 @@
 ## 基本情報
 |Contact|Outputs|
 :----|:---- 
-|[Twitter](https://twitter.com/a2arakawa)|[Qiita（ICT技術）](https://qiita.com/a2arakawa) / [note（EdTech育児）](https://note.com/a2arakawa)|
+|[Twitter](https://twitter.com/a2arakawa)|[・Qiita（ICT技術）](https://qiita.com/a2arakawa)<BR>[・note（育児/EdTech）](https://note.com/a2arakawa)|
 
 
 ## 職務経歴（概要）
 
 |No|時期|業務|環境|役割|
 ----|----|----|----|---- 
-|[05](#A05)|2020年1月<BR>〜<BR>現在<BR>（）|・アプリケーション保守/運用<BR>・サーバーレス検証||会社C<BR>メンバー〜リーダー|
-|[04](#A04)|2019年7月<BR>〜<BR>2019年12月<BR>（0年6ヶ月）|・育児休職|||
-|[03](#A03)|2015年3月<BR>〜<BR>2019年6月<BR>（4年4ヶ月）|・企画<BR>・クラウド導入運営|・[クラウド](PlantUML/001_aws.png)<BR>・OracleDB<BR>・Windows/RHEL|会社C<BR>リーダー|
-|[02](#A02)|2011年12月<BR>〜<BR>2015年2月<BR>（3年3ヶ月）|・センター移行<BR>・情シス|・物理サーバ<BR>・クラウド<BR>・OracleDB<BR>・Windows/RHEL<BR>・VDI|会社B<BR>マネージャ|
-|[01](#A01)|2002年4月<BR>〜<BR>2011年11月<BR>（9年8ヶ月）|・サーバ設計構築<BR>・サーバ維持保守|物理サーバ<BR>・Hitachi-USPV<BR>・OracleDB<BR>・Windos/HP-UX|会社A<BR>メンバー〜リーダー|
+|[A05](#A05)|2020年1月<BR>〜<BR>現在<BR>（）|・アプリケーション保守/運用<BR>・サーバーレス検証||会社C<BR>メンバー〜リーダー|
+|A04|2019年7月<BR>〜<BR>2019年12月<BR>（0年6ヶ月）|・育児休職|||
+|[A03](#A03)|2015年3月<BR>〜<BR>2019年6月<BR>（4年4ヶ月）|・企画<BR>・クラウド導入運営|・[クラウド](PlantUML/001_aws.png)<BR>・OracleDB<BR>・Windows/RHEL|会社C<BR>リーダー|
+|[A02](#A02)|2011年12月<BR>〜<BR>2015年2月<BR>（3年3ヶ月）|・センター移行<BR>・情シス|・物理サーバ<BR>・クラウド<BR>・OracleDB<BR>・Windows/RHEL<BR>・VDI|会社B<BR>マネージャ|
+|[A01](#A01)|2002年4月<BR>〜<BR>2011年11月<BR>（9年8ヶ月）|・サーバ設計構築<BR>・サーバ維持保守|物理サーバ<BR>・Hitachi-USPV<BR>・OracleDB<BR>・Windos/HP-UX|会社A<BR>メンバー〜リーダー|
 
 ## 学習履歴（資格観点）
 
