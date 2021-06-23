@@ -15,10 +15,11 @@
 |[A02](#A02)|2011年12月<BR>〜<BR>2015年2月<BR>（3年3ヶ月）|・センター移行<BR>・情シス|・物理サーバ<BR>・クラウド<BR>・OracleDB<BR>・Windows/RHEL<BR>・VDI|会社B<BR>マネージャ|
 |[A01](#A01)|2002年4月<BR>〜<BR>2011年11月<BR>（9年8ヶ月）|・サーバ設計構築<BR>・サーバ維持保守|物理サーバ<BR>・Hitachi-USPV<BR>・OracleDB<BR>・Windos/HP-UX|会社A<BR>メンバー〜リーダー|
 
-## 学習履歴（資格観点）
+## 学習履歴（資格）
 
 |No|Date|Sutdy&Test|Category|
 ----|----|----|---- 
+|11|2021年02月|ServiceNow Certified System Administrator|ServiceNOW製品知識|
 |10|2019年08月|JSTQB認定テスト技術者資格 Foundation Level|汎用|
 |09|2017年12月|AWS Solutions Architect - Professional|AWS製品知識|
 |08|2016年04月|IPA 応用情報技術者試験|汎用|
