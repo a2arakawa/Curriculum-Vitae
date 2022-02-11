@@ -7,7 +7,7 @@
 
 |Outputs|
 :----|
-[Qiita（ICT技術）](https://qiita.com/a2arakawa)|
+[Qiita（技術/blog）](https://qiita.com/a2arakawa)|
 |[note（育児/EdTech）](https://note.com/a2arakawa)|
 
 
