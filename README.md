@@ -14,7 +14,7 @@
 |[A06](#A06)|2021/07〜2022/06<BR>|・APIプラットフォーム基盤整備|・Amazon API Gateway<BR>・Lambda Python<BR>・Stoplight Studio<BR>・AzureAD(IDP)|会社C<BR>マネージャ|
 |[A05](#A05)|2020/01〜2021/06<BR>|・アプリケーション保守/運用|・Java1.8<BR>・Eclipse|会社C<BR>メンバー〜リーダー|
 |A04|2019/07〜2019/12<BR>|・育児休職|||
-|[A03](#A03)|2015/03〜2019/06|・企画<BR>・クラウド導入運営|・[クラウド](PlantUML/001_aws.png)<BR>・OracleDB<BR>・Windows/RHEL|会社C<BR>リーダー|
+|[A03](#A03)|2015/03〜2019/06|・企画<BR>・AWSクラウド導入運営|・[AWSクラウド](PlantUML/001_aws.png)<BR>・OracleDB<BR>・Windows/RHEL|会社C<BR>リーダー|
 |[A02](#A02)|2011/12〜2015/02|・センター移行<BR>・情シス|・物理サーバ<BR>・クラウド<BR>・OracleDB<BR>・Windows/RHEL<BR>・VDI|会社B<BR>マネージャ|
 |[A01](#A01)|2002/04〜2011/11|・サーバ設計構築<BR>・サーバ維持保守|物理サーバ<BR>・Hitachi-USPV<BR>・OracleDB<BR>・Windos/HP-UX|会社A<BR>メンバー〜リーダー|
 
