@@ -45,6 +45,7 @@
 
 |No|Date|Sutdy&Test|Category|
 ----|----|----|---- 
+|12|2023年03月|Salesforce 認定アドミニストレータ|Salesforce製品知識|
 |11|2021年02月|ServiceNow Certified System Administrator(Quebec版以前)|ServiceN製品知識|
 |10|2019年08月|JSTQB認定テスト技術者資格 Foundation Level|汎用|
 |09|2017年12月|AWS Solutions Architect - Professional|AWS製品知識|
